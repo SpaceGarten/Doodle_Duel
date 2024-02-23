@@ -1,9 +1,9 @@
 import './App.css';
-import Forms from './components/Forms/JoinRoomForm'; // Omit '/index.jsx' since it is implied
+import Forms from './components/Forms'; // Omit '/index.jsx' since it is implied
 
 const App = () => {
   return (
-    <div className="App">
+    <div className="container">
       <Forms/>
     </div>
   );

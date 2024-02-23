@@ -1,8 +1,5 @@
-// JoinRoomForm index.jsx
-
-const Forms = () => {
-    return <h1>Forms Working</h1>;
+const JoinRoomForm = () => {
+    return <h1>Join Room Form</h1>;
 };
-  
-export default Forms;
-  
+
+export default JoinRoomForm;
